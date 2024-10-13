@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A36D20D4-A0FB-4FED-BCA7-CF647A757CB7}|..\\xUnitTestProject\\xUnitTestProject.csproj|d:\\industryconnect\\assignment\\week4\\xunittestproject\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA13177-578F-45FE-B05F-73FBE82EE79D}|..\\UnitTestProject\\UnitTestProject.csproj|d:\\industryconnect\\assignment\\week4\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07C9F1C-1623-4665-ADA1-CC7420475C78}|..\\CustomerApi\\CustomerApi.csproj|d:\\industryconnect\\assignment\\week4\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\industryconnect\\assignment\\week4\\applicationtier\\classes\\customermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\industryconnect\\assignment\\week4\\applicationtier\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\industryconnect\\assignment\\week4\\applicationtier\\classes\\salemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\industryconnect\\assignment\\week4\\applicationtier\\interfaces\\isalemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|d:\\industryconnect\\assignment\\week4\\industryconnect_week_microservices\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\industryconnect\\assignment\\week4\\applicationtier\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07C9F1C-1623-4665-ADA1-CC7420475C78}|..\\CustomerApi\\CustomerApi.csproj|d:\\industryconnect\\assignment\\week4\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|d:\\industryconnect\\assignment\\week4\\industryconnect_week_microservices\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|d:\\industryconnect\\assignment\\week4\\industryconnect_week_microservices\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|solutionrelative:models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\industryconnect\\assignment\\week4\\applicationtier\\interfaces\\icustomermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:12:39.9Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerControllerTests.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\xUnitTestProject\\CustomerControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\xUnitTestProject\\CustomerControllerTests.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\xUnitTestProject\\CustomerControllerTests.cs",
+              "RelativeToolTip": "..\\xUnitTestProject\\CustomerControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:41:48.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\UnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\UnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:33:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISaleMethods.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Interfaces\\ISaleMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Interfaces\\ISaleMethods.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Interfaces\\ISaleMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Interfaces\\ISaleMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:11:27.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerMethods.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wF0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:26:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\CustomerApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:35:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:14:08.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:12:25.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleMethods.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:18:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:22:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\CustomerApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\Program.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\CustomerApi\\Program.cs",
+              "RelativeToolTip": "..\\CustomerApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:26:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Models\\Store.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\IndustryConnect_Week_Microservices\\Models\\Store.cs",
+              "RelativeToolTip": "Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:31:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerMethods.cs",
+              "DocumentMoniker": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "ToolTip": "D:\\IndustryConnect\\Assignment\\Week4\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:47.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

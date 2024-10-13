@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "..\\CustomerApi\\CustomerApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\StoreApi\\StoreApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

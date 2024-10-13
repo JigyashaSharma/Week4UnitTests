@@ -1,0 +1,16 @@
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\bin\Debug\net8.0\ApplicationTier.deps.json
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\bin\Debug\net8.0\ApplicationTier.dll
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\bin\Debug\net8.0\ApplicationTier.pdb
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\bin\Debug\net8.0\IndustryConnect_Week_Microservices.dll
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\bin\Debug\net8.0\IndustryConnect_Week_Microservices.pdb
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.csproj.AssemblyReference.cache
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.AssemblyInfoInputs.cache
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.AssemblyInfo.cs
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.csproj.CoreCompileInputs.cache
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.sourcelink.json
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\Applicat.27915297.Up2Date
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.dll
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\refint\ApplicationTier.dll
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ApplicationTier.pdb
+D:\IndustryConnect\Assignment\Week4\ApplicationTier\obj\Debug\net8.0\ref\ApplicationTier.dll

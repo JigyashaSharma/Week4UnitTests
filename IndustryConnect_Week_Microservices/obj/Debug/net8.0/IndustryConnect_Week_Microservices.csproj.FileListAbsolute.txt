@@ -1,0 +1,15 @@
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\bin\Debug\net8.0\IndustryConnect_Week_Microservices.deps.json
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\bin\Debug\net8.0\IndustryConnect_Week_Microservices.runtimeconfig.json
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\bin\Debug\net8.0\IndustryConnect_Week_Microservices.dll
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\bin\Debug\net8.0\IndustryConnect_Week_Microservices.pdb
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.csproj.AssemblyReference.cache
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.AssemblyInfoInputs.cache
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.AssemblyInfo.cs
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.csproj.CoreCompileInputs.cache
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.sourcelink.json
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.dll
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\refint\IndustryConnect_Week_Microservices.dll
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.pdb
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\IndustryConnect_Week_Microservices.genruntimeconfig.cache
+D:\IndustryConnect\Assignment\Week4\IndustryConnect_Week_Microservices\obj\Debug\net8.0\ref\IndustryConnect_Week_Microservices.dll
